@@ -1,0 +1,1 @@
+FROM ghcr.io/yue9944882/crd-model-gen-base:v1.0.0@sha256:ffc452728193a6f0072b6828ca044313166dd3c2c9e18b5543140476ef86ed0d
